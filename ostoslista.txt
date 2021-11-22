@@ -6,3 +6,4 @@ appelsiini
 kauramaito
 kahvi
 proteiinipatukka
+mansikka
